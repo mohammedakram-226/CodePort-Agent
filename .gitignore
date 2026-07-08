@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated C++ files
+generated/*.exe
+generated/*.o
+generated/*.out
+
+# Optional: ignore generated C++ output if you don't want to upload it
+# generated/main.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
